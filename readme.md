@@ -31,38 +31,6 @@ I specialize in architecting scalable, performant, and secure end-to-end web pro
 
 ---
 
-## 🧩 Problem Solving & Competitive Programming
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ipyy4bScT2/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tle_break_tryagain)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/israt_52)
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-### 📜 Certificate of Recognition — Data Structures & Algorithms
-> Recognized by **Phitron** for outstanding academic performance and problem-solving excellence in **Data Structures and Algorithms**.
-
-<div align="center">
-  <a href="./img/certificate.png" target="_blank">
-    <img src="./img/certificate.png" alt="Phitron Certificate of Recognition - Data Structures and Algorithms" width="680" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.25);" />
-  </a>
-  <p><i>Phitron · 2026 · Outstanding Result in Data Structure and Algorithm</i></p>
-</div>
-
-### 🎓 Academic & Research Highlights
-- 🥇 **First Class Honours (CGPA: 3.76 / 4.00)** — BSc in Computer Science and Engineering, Port City International University.
-- 📚 **IEEE Published Researcher**:
-  - **[Bengali Hate Speech Categorization: A Comparison of Hybrid Deep Learning and Transformer-Based Models](https://ieeexplore.ieee.org/document/10955953/authors#authors)** *(IEEE Xplore)*
-  - **[Depression Detection from Bangla Text Using BanglaBERT and Hybrid Deep Learning Techniques](https://ieeexplore.ieee.org/document/11013401)** *(IEEE Xplore)*
-
----
-
 ## 💻 Tech Stack
 
 <div align="left">
@@ -106,6 +74,38 @@ I specialize in architecting scalable, performant, and secure end-to-end web pro
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+---
+
+## 🧩 Problem Solving & Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ipyy4bScT2/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tle_break_tryagain)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/israt_52)
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+### 📜 Certificate of Recognition — Data Structures & Algorithms
+> Recognized by **Phitron** for outstanding academic performance and problem-solving excellence in **Data Structures and Algorithms**.
+
+<div align="center">
+  <a href="./img/certificate.png" target="_blank">
+    <img src="./img/certificate.png" alt="Phitron Certificate of Recognition - Data Structures and Algorithms" width="680" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.25);" />
+  </a>
+  <p><i>Phitron · 2026 · Outstanding Result in Data Structure and Algorithm</i></p>
+</div>
+
+### 🎓 Academic & Research Highlights
+- 🥇 **First Class Honours (CGPA: 3.76 / 4.00)** — BSc in Computer Science and Engineering, Port City International University.
+- 📚 **IEEE Published Researcher**:
+  - **[Bengali Hate Speech Categorization: A Comparison of Hybrid Deep Learning and Transformer-Based Models](https://ieeexplore.ieee.org/document/10955953/authors#authors)** *(IEEE Xplore)*
+  - **[Depression Detection from Bangla Text Using BanglaBERT and Hybrid Deep Learning Techniques](https://ieeexplore.ieee.org/document/11013401)** *(IEEE Xplore)*
 
 ---
 
@@ -159,25 +159,3 @@ I am always open to discussing new opportunities, collaborations, and software e
 ⭐️ *If you find my projects helpful or interesting, feel free to give them a star!* ⭐️
 
 </div>
-
-</div>
-
----
-
-## 📬 Let's Connect!
-
-I am always open to discussing new opportunities, collaborations, and software engineering projects.
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-shkera213%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shkera213@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Visit_Site-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-two-sand-9di0sr60nj.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erab2r/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erab2r)
-
-<br/>
-
-⭐️ *If you find my projects helpful or interesting, feel free to give them a star!* ⭐️
-
-</div>
-
