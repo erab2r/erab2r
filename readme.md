@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="./img/banner.png" alt="Israt Jahan - Full Stack Developer Banner" width="100%" />
+</p>
+
 # 👋 Hi there, I'm Israt Jahan
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=620&height=50&lines=AI-Driven+Software+Engineer;Full-Stack+Developer;NLP+Researcher)](https://portfolio-two-sand-9di0sr60nj.vercel.app/)
@@ -19,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I am an **AI-Driven Software Engineer & Full-Stack Developer** with a **BSc in Computer Science and Engineering** from Port City International University (Graduated with **First Class Honours**, CGPA **3.76 / 4.00**). 
+I am an **AI-Driven Software Engineer & Full-Stack Developer** with a **BSc in Computer Science and Engineering** from Port City International University (Graduated with **First Class Honours**). 
 
 I specialize in architecting scalable, performant, and secure end-to-end web products using **Next.js, TypeScript, Node.js, and PostgreSQL**, coupled with a deep interest in **Data Structures, Algorithms, and NLP/Machine Learning research**.
 
