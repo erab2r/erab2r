@@ -105,7 +105,7 @@ I specialize in architecting scalable, performant, and secure end-to-end web pro
 </div>
 
 ### 🎓 Academic & Research Highlights
-- 🥇 **First Class Honours (CGPA: 3.76 / 4.00)** — BSc in Computer Science and Engineering, Port City International University.
+- 🥇 **First Class Honours ** — BSc in Computer Science and Engineering, Port City International University.
 - 📚 **IEEE Published Researcher**:
   - **[Bengali Hate Speech Categorization: A Comparison of Hybrid Deep Learning and Transformer-Based Models](https://ieeexplore.ieee.org/document/10955953/authors#authors)** *(IEEE Xplore)*
   - **[Depression Detection from Bangla Text Using BanglaBERT and Hybrid Deep Learning Techniques](https://ieeexplore.ieee.org/document/11013401)** *(IEEE Xplore)*
