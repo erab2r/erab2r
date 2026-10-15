@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Israt Jahan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=620&height=50&lines=AI-Driven+Software+Engineer;Full-Stack+Web+Developer;React+%26+Next.js+Specialist;NLP+%26+Deep+Learning+Researcher;Passionate+Problem+Solver)](https://portfolio-two-sand-9di0sr60nj.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=620&height=50&lines=AI-Driven+Software+Engineer;Full-Stack+Developer;NLP+Researcher)](https://portfolio-two-sand-9di0sr60nj.vercel.app/)
 
 <p align="center">
   <b>⚡ <i>"From stack to intelligence: engineering smarter software."</i></b>
@@ -92,13 +92,12 @@ I specialize in architecting scalable, performant, and secure end-to-end web pro
 ## 🏆 Achievements & Certifications
 
 ### 📜 Certificate of Recognition — Data Structures & Algorithms
-> Recognized by **Phitron** for outstanding academic performance and problem-solving excellence in **Data Structures and Algorithms**.
+> Recognized by **Phitron** (2026) for outstanding academic performance and problem-solving excellence in **Data Structures and Algorithms**.
 
 <div align="center">
-  <a href="./img/certificate.png" target="_blank">
-    <img src="./img/certificate.png" alt="Phitron Certificate of Recognition - Data Structures and Algorithms" width="680" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.25);" />
-  </a>
-  <p><i>Phitron · 2026 · Outstanding Result in Data Structure and Algorithm</i></p>
+
+[![View Certificate on Google Drive](https://img.shields.io/badge/View_Certificate-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1yMd6XebZpsAdSH4MjstTL5MTp0uLnWDq/view?usp=drive_link)
+
 </div>
 
 ### 🎓 Academic & Research Highlights
@@ -114,8 +113,8 @@ I specialize in architecting scalable, performant, and secure end-to-end web pro
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :---: |
 | **🚚 Delivexaa** | Enterprise courier and logistics tracking system with role-based dashboards, secure dispatch flows, and parcel management. | Node.js, Express, TypeScript, Prisma, PostgreSQL | [Code](https://github.com/erab2r) |
-| **⚖️ Justice Desk** | Full-stack lawyer consultation platform with appointment booking, legal case management, and payment processing. | Next.js, TypeScript, Node.js, Express, Prisma, PostgreSQL | [Live](https://portfolio-two-sand-9di0sr60nj.vercel.app/) · [Code](https://github.com/erab2r) |
-| **🔧 Fix It Now** | Home service booking platform connecting customers with vetted technicians, complete with online payments and multi-tier auth. | Express.js, TypeScript, Prisma, PostgreSQL, JWT | [Live](https://portfolio-two-sand-9di0sr60nj.vercel.app/) · [Code](https://github.com/erab2r) |
+| **⚖️ Justice Desk** | Full-stack lawyer consultation platform with appointment booking, legal case management, and payment processing. | Next.js, TypeScript, Node.js, Express, Prisma, PostgreSQL | [Live Demo](https://justice-desk-frontend.vercel.app/) · [Code](https://github.com/erab2r) |
+| **🔧 Fix It Now** | Home service booking platform connecting customers with vetted technicians, complete with online payments and multi-tier auth. | Express.js, TypeScript, Prisma, PostgreSQL, JWT | [Live Demo](https://fix-it-now-iota.vercel.app/) · [Code](https://github.com/erab2r) |
 
 ---
 
